@@ -11,7 +11,7 @@ setup(
     description="A simple math operations package",
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url="https://github.com/yourusername/mathutils",
+    url="https://github.com/omkars20/mathutils_packagae",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
